@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VisiteFerme/static/css/main.61af528f.css",
+    "main.js": "/VisiteFerme/static/js/main.fda55ee7.js",
+    "index.html": "/VisiteFerme/index.html",
+    "main.61af528f.css.map": "/VisiteFerme/static/css/main.61af528f.css.map",
+    "main.fda55ee7.js.map": "/VisiteFerme/static/js/main.fda55ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61af528f.css",
+    "static/js/main.fda55ee7.js"
+  ]
+}
